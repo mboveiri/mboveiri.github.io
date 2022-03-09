@@ -1,0 +1,16 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = "PaperMod"
+
+
+defaultContentLanguage ="fa"
+DateFormat = "Jan 2nd 2006"
+
+
+[languages.fa]
+languagedirection = "rtl"
+
+DateFormat = "2 Jan 2006"
+
+
